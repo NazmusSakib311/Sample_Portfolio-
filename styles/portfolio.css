@@ -29,7 +29,7 @@ nav {
 .nav-title {
     color: #181818;
     font-size: 45px;
-    font-weight: 800;    
+    font-weight: 800;
 }
 
 nav>ul {
@@ -52,13 +52,13 @@ nav a {
     background-color: #FFF8F3;
 }
 
-.banner{
+.banner {
     padding: 30px 30px 30px 150px;
     display: flex;
     align-items: center;
 }
 
-.banner .pro-pic{
+.banner .pro-pic {
     height: 600px;
     width: 500px;
 }
