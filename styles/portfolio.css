@@ -111,6 +111,7 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
+
 /* About section styles*/
 .about {
     padding: 130px;
@@ -120,7 +121,7 @@ main {
 }
 
 .about-info-container {
-    display:flex;
+    display: flex;
     justify-content: space-around;
 }
 
