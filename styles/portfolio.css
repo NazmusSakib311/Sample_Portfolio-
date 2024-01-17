@@ -152,7 +152,7 @@ main {
 }
 
 .skill-description {
-   color: Dark-03 #757575;
+    color: Dark-03 #757575;
 }
 
 /* Resume section styles */
@@ -160,4 +160,36 @@ main {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+}
+
+.resume-container {
+    display: flex;
+    gap: 50px;
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-item-info {
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.resume-item-info,
+.resume-item-description {
+
+    color: #757575;
+}
+
+.resume-container hr {
+    margin: 20px;
+}
+
+.download-cv {
+    text-align: center;
+    margin-top: 50;
 }
